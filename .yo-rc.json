@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.thandb.study.jhipster",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "new1",
+        "packageName": "com.thandb.study.jhipster",
+        "packageFolder": "com/thandb/study/jhipster",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mariadb",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OTEwMjcwMWJjNDM1OWQ4MzlmM2Y4YWM1Y2IzYWMzOTBiY2FjZDkzNWQyNmU3MWU5NzJhZmRmZmEwODhmZGQ0MTJkOWQ1NDg0ZmZmZGQ1MGVmYzVhYTQwMDBiOTk5ZGE0NmMyNTdjNDhiZjJhYThkNTU3MjI5NjAxOTBhNTczYTE=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "fr"]
+    }
+}
